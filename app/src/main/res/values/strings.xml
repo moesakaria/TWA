@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">TWA</string>
     <string name="location_label">St. Paul, MN</string>
-    <string name="temp_value">72°</string>
+    <string name="temp_value">94°</string>
     <string name="feels_like_format">Feels like %1$s</string>
-    <string name="feels_like_value">78°</string>
+    <string name="feels_like_value">99°</string>
     <string name="low_temp_format">Low %1$s</string>
-    <string name="low_temp_value">65°</string>
+    <string name="low_temp_value">85°</string>
     <string name="high_temp_format">High %1$s</string>
-    <string name="high_temp_value">80°</string>
+    <string name="high_temp_value">98°</string>
     <string name="humidity_format">Humidity %1$s</string>
     <string name="humidity_value">100%</string>
     <string name="pressure_format">Pressure %1$s hPa</string>
